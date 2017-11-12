@@ -48,3 +48,14 @@ h3#header {
 #header a:hover {
   text-decoration: underline;
 }
+
+main {
+  margin-top: 20px;
+}
+
+div.jumbotron {
+  border-radius: 5px;
+  background-color: #e9ecef;
+  padding: 10px;
+  text-align: center;
+}
